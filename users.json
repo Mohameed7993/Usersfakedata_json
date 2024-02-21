@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Emily Stone",
+      "email": "emily.stone@example.com",
+      "role": "Doctor"
+    },
+    {
+      "id": 3,
+      "name": "Dr. James Wilson",
+      "email": "james.wilson@example.com",
+      "role": "Doctor"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lisa Cuddy",
+      "email": "lisa.cuddy@example.com",
+      "role": "Doctor"
+    },
+    {
+      "id": 5,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 6,
+      "name": "Bob Brown",
+      "email": "bob.brown@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 7,
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 8,
+      "name": "Diana Brooks",
+      "email": "diana.brooks@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 9,
+      "name": "Evan Wright",
+      "email": "evan.wright@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 10,
+      "name": "Fiona Graham",
+      "email": "fiona.graham@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 11,
+      "name": "George Hall",
+      "email": "george.hall@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 12,
+      "name": "Hannah Scott",
+      "email": "hannah.scott@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 13,
+      "name": "Ian Reed",
+      "email": "ian.reed@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 14,
+      "name": "Jenny Patel",
+      "email": "jenny.patel@example.com",
+      "role": "Customer"
+    },
+    {
+      "id": 15,
+      "name": "Kyle Chen",
+      "email": "kyle.chen@example.com",
+      "role": "Customer"
+    }
+  ]
+  
