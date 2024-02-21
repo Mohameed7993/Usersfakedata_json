@@ -2,91 +2,106 @@
 [
     {
       "id": 1,
-      "name": "mohameed egbaria",
+      "name": "master_mohamed",
+      "password":"master",
       "email": "mohamed@example.com",
       "role": "10"
     },
     {
       "id": 2,
-      "name": "Dr. Emily Stone",
+      "name": "Doctor1",
+      "password":"dr1",
       "email": "emily.stone@example.com",
       "role": "6"
     },
     {
       "id": 3,
-      "name": "Dr. James Wilson",
+      "name": "Doctor2",
+      "password":"dr2",
       "email": "james.wilson@example.com",
       "role": "6"
     },
     {
       "id": 4,
-      "name": "Dr. Lisa Cuddy",
+      "name": "Doctor3",
+      "password":"dr3",
       "email": "lisa.cuddy@example.com",
       "role": "6"
     },
     {
       "id": 5,
-      "name": "Alice Johnson",
+      "name": "custmer1",
+      "password":"cus1",
       "email": "alice.johnson@example.com",
       "role": "1"
     },
     {
       "id": 6,
-      "name": "Bob Brown",
+      "name": "custmer2",
+      "password":"cus2",
       "email": "bob.brown@example.com",
       "role": "1"
     },
     {
       "id": 7,
-      "name": "Charlie Davis",
+      "name": "custmer3",
+      "password":"cus3",
       "email": "charlie.davis@example.com",
       "role": "1"
     },
     {
       "id": 8,
-      "name": "Diana Brooks",
+      "name": "custmer4",
+      "password":"cus4",
       "email": "diana.brooks@example.com",
       "role": "1"
     },
     {
       "id": 9,
-      "name": "Evan Wright",
+      "name": "custmer5",
+      "password":"cus5",
       "email": "evan.wright@example.com",
       "role": "1"
     },
     {
       "id": 10,
-      "name": "Fiona Graham",
+      "name": "custmer6",
+      "password":"cus6",
       "email": "fiona.graham@example.com",
       "role": "1"
     },
     {
       "id": 11,
-      "name": "George Hall",
+      "name": "custmer7",
+      "password":"cus7",
       "email": "george.hall@example.com",
       "role": "1"
     },
     {
       "id": 12,
-      "name": "Hannah Scott",
+      "name": "custmer8",
+      "password":"cus8",
       "email": "hannah.scott@example.com",
       "role": "1"
     },
     {
       "id": 13,
-      "name": "Ian Reed",
+      "name": "custmer9",
+      "password":"cus9",
       "email": "ian.reed@example.com",
       "role": "1"
     },
     {
       "id": 14,
-      "name": "Jenny Patel",
+      "name": "custmer10",
+      "password":"cus10",
       "email": "jenny.patel@example.com",
       "role": "1"
     },
     {
       "id": 15,
-      "name": "Kyle Chen",
+      "name": "custmer11",
+      "password":"cus11",
       "email": "kyle.chen@example.com",
       "role": "1"
     }
