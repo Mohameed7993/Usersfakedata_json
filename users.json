@@ -1,109 +1,182 @@
-
 [
-    {
-      "id": 1,
-      "name": "master_mohamed",
-      "password":"master",
-      "email": "mohamed@example.com",
-      "role": "10"
-    },
-    {
-      "id": 2,
-      "name": "Doctor1",
-      "password":"dr1",
-      "email": "emily.stone@example.com",
-      "role": "6"
-    },
-    {
-      "id": 3,
-      "name": "Doctor2",
-      "password":"dr2",
-      "email": "james.wilson@example.com",
-      "role": "6"
-    },
-    {
-      "id": 4,
-      "name": "Doctor3",
-      "password":"dr3",
-      "email": "lisa.cuddy@example.com",
-      "role": "6"
-    },
-    {
-      "id": 5,
-      "name": "custmer1",
-      "password":"cus1",
-      "email": "alice.johnson@example.com",
-      "role": "1"
-    },
-    {
-      "id": 6,
-      "name": "custmer2",
-      "password":"cus2",
-      "email": "bob.brown@example.com",
-      "role": "1"
-    },
-    {
-      "id": 7,
-      "name": "custmer3",
-      "password":"cus3",
-      "email": "charlie.davis@example.com",
-      "role": "1"
-    },
-    {
-      "id": 8,
-      "name": "custmer4",
-      "password":"cus4",
-      "email": "diana.brooks@example.com",
-      "role": "1"
-    },
-    {
-      "id": 9,
-      "name": "custmer5",
-      "password":"cus5",
-      "email": "evan.wright@example.com",
-      "role": "1"
-    },
-    {
-      "id": 10,
-      "name": "custmer6",
-      "password":"cus6",
-      "email": "fiona.graham@example.com",
-      "role": "1"
-    },
-    {
-      "id": 11,
-      "name": "custmer7",
-      "password":"cus7",
-      "email": "george.hall@example.com",
-      "role": "1"
-    },
-    {
-      "id": 12,
-      "name": "custmer8",
-      "password":"cus8",
-      "email": "hannah.scott@example.com",
-      "role": "1"
-    },
-    {
-      "id": 13,
-      "name": "custmer9",
-      "password":"cus9",
-      "email": "ian.reed@example.com",
-      "role": "1"
-    },
-    {
-      "id": 14,
-      "name": "custmer10",
-      "password":"cus10",
-      "email": "jenny.patel@example.com",
-      "role": "1"
-    },
-    {
-      "id": 15,
-      "name": "custmer11",
-      "password":"cus11",
-      "email": "kyle.chen@example.com",
-      "role": "1"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "fullname": "Master Mohamed",
+    "name": "master_mohamed",
+    "password": "master",
+    "email": "mohamed@example.com",
+    "role": "10",
+    "age": 35,
+    "phone": "+1234567890",
+    "location": "Cityville, Country",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "fullname": "Dr. John Doe",
+    "name": "Doctor1",
+    "password": "dr1",
+    "email": "john.doe@example.com",
+    "role": "6",
+    "age": 45,
+    "phone": "+9876543210",
+    "location": "Hospital City, Country",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "fullname": "Dr. Emily Stone",
+    "name": "Doctor2",
+    "password": "dr2",
+    "email": "emily.stone@example.com",
+    "role": "6",
+    "age": 40,
+    "phone": "+1122334455",
+    "location": "Medical Center, Country",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "fullname": "Dr. James Wilson",
+    "name": "Doctor3",
+    "password": "dr3",
+    "email": "james.wilson@example.com",
+    "role": "6",
+    "age": 38,
+    "phone": "+9988776655",
+    "location": "Health Clinic, Country",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "fullname": "Alice Johnson",
+    "name": "custmer1",
+    "password": "cus1",
+    "email": "alice.johnson@example.com",
+    "role": "1",
+    "age": 28,
+    "phone": "+5544332211",
+    "location": "Residential Area, Country",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "fullname": "Bob Brown",
+    "name": "custmer2",
+    "password": "cus2",
+    "email": "bob.brown@example.com",
+    "role": "1",
+    "age": 30,
+    "phone": "+1122334455",
+    "location": "Suburb City, Country",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "fullname": "Charlie Davis",
+    "name": "custmer3",
+    "password": "cus3",
+    "email": "charlie.davis@example.com",
+    "role": "1",
+    "age": 32,
+    "phone": "+9988776655",
+    "location": "Downtown, Country",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "fullname": "Diana Brooks",
+    "name": "custmer4",
+    "password": "cus4",
+    "email": "diana.brooks@example.com",
+    "role": "1",
+    "age": 25,
+    "phone": "+1122334455",
+    "location": "Village, Country",
+    "status": "Active"
+  },
+  {
+    "id": 9,
+    "fullname": "Evan Wright",
+    "name": "custmer5",
+    "password": "cus5",
+    "email": "evan.wright@example.com",
+    "role": "1",
+    "age": 27,
+    "phone": "+9988776655",
+    "location": "Rural Area, Country",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "fullname": "Fiona Graham",
+    "name": "custmer6",
+    "password": "cus6",
+    "email": "fiona.graham@example.com",
+    "role": "1",
+    "age": 29,
+    "phone": "+1122334455",
+    "location": "Countryside, Country",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "fullname": "George Hall",
+    "name": "custmer7",
+    "password": "cus7",
+    "email": "george.hall@example.com",
+    "role": "1",
+    "age": 31,
+    "phone": "+9988776655",
+    "location": "Mountain Town, Country",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "fullname": "Hannah Scott",
+    "name": "custmer8",
+    "password": "cus8",
+    "email": "hannah.scott@example.com",
+    "role": "1",
+    "age": 26,
+    "phone": "+1122334455",
+    "location": "Seaside, Country",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "fullname": "Ian Reed",
+    "name": "custmer9",
+    "password": "cus9",
+    "email": "ian.reed@example.com",
+    "role": "1",
+    "age": 33,
+    "phone": "+9988776655",
+    "location": "Island, Country",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "fullname": "Jenny Patel",
+    "name": "custmer10",
+    "password": "cus10",
+    "email": "jenny.patel@example.com",
+    "role": "1",
+    "age": 34,
+    "phone": "+1122334455",
+    "location": "Desert Oasis, Country",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "fullname": "Kyle Chen",
+    "name": "custmer11",
+    "password": "cus11",
+    "email": "kyle.chen@example.com",
+    "role": "1",
+    "age": 30,
+    "phone": "+9988776655",
+    "location": "Jungle City, Country",
+    "status": "Active"
+  }
+]
