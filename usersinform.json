@@ -1,0 +1,69 @@
+[
+    {
+      "id": "1",
+      "mental_state": 7,
+      "anxiety": 4,
+      "summary": "Generally in a good mental state, with moderate anxiety levels."
+    },
+    {
+      "id": "2",
+      "mental_state": 5,
+      "anxiety": 8,
+      "summary": "Struggling with higher anxiety levels, affecting overall mental well-being."
+    },
+    {
+      "id": "3",
+      "mental_state": 9,
+      "anxiety": 2,
+      "summary": "Excelling in mental well-being with low levels of anxiety."
+    },
+    {
+      "id": "4",
+      "mental_state": 3,
+      "anxiety": 9,
+      "summary": "Facing challenges with both mental well-being and high anxiety."
+    },
+    {
+      "id": "5",
+      "mental_state": 6,
+      "anxiety": 5,
+      "summary": "Averagely stable mental state with moderate anxiety levels."
+    },
+    {
+      "id": "6",
+      "mental_state": 8,
+      "anxiety": 3,
+      "summary": "Enjoying a high level of mental well-being with low anxiety."
+    },
+    {
+      "id": "7",
+      "mental_state": 4,
+      "anxiety": 7,
+      "summary": "Struggling with both mental state and elevated anxiety."
+    },
+    {
+      "id": "8",
+      "mental_state": 2,
+      "anxiety": 10,
+      "summary": "Experiencing significant challenges with very high anxiety levels."
+    },
+    {
+      "id": "9",
+      "mental_state": 10,
+      "anxiety": 1,
+      "summary": "Thriving in excellent mental well-being with minimal anxiety."
+    },
+    {
+      "id": "10",
+      "mental_state": 6,
+      "anxiety": 6,
+      "summary": "Maintaining a balanced mental state with moderate anxiety."
+    },
+    {
+      "id": "11",
+      "mental_state": 4,
+      "anxiety": 8,
+      "summary": "Struggling with lower mental well-being and high anxiety."
+    }
+  ]
+  
