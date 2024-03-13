@@ -1,18 +1,5 @@
 [
   {
-    "id": 1,
-    "fullname": "Master Mohamed",
-    "name": "master_mohamed",
-    "password": "master",
-    "email": "mohamed@example.com",
-    "role": "10",
-    "age": 35,
-    "phone": "+1234567890",
-    "location": "Cityville, Country",
-    "status": "Active"
-  },
-  {
-    "id": 2,
     "fullname": "Dr. John Doe",
     "name": "Doctor1",
     "password": "dr1",
@@ -25,7 +12,6 @@
     "status": "Active"
   },
   {
-    "id": 3,
     "fullname": "Dr. Emily Stone",
     "name": "Doctor2",
     "password": "dr2",
@@ -38,7 +24,6 @@
     "status": "Active"
   },
   {
-    "id": 4,
     "fullname": "Dr. James Wilson",
     "name": "Doctor3",
     "password": "dr3",
@@ -51,7 +36,6 @@
     "status": "Active"
   },
   {
-    "id": 5,
     "fullname": "Alice Johnson",
     "name": "custmer1",
     "password": "cus1",
@@ -63,7 +47,6 @@
     "status": "Active"
   },
   {
-    "id": 6,
     "fullname": "Bob Brown",
     "name": "custmer2",
     "password": "cus2",
@@ -75,7 +58,6 @@
     "status": "Active"
   },
   {
-    "id": 7,
     "fullname": "Charlie Davis",
     "name": "custmer3",
     "password": "cus3",
@@ -87,7 +69,6 @@
     "status": "Active"
   },
   {
-    "id": 8,
     "fullname": "Diana Brooks",
     "name": "custmer4",
     "password": "cus4",
@@ -99,7 +80,6 @@
     "status": "Active"
   },
   {
-    "id": 9,
     "fullname": "Evan Wright",
     "name": "custmer5",
     "password": "cus5",
@@ -111,7 +91,6 @@
     "status": "Active"
   },
   {
-    "id": 10,
     "fullname": "Fiona Graham",
     "name": "custmer6",
     "password": "cus6",
@@ -123,7 +102,6 @@
     "status": "Active"
   },
   {
-    "id": 11,
     "fullname": "George Hall",
     "name": "custmer7",
     "password": "cus7",
@@ -135,7 +113,6 @@
     "status": "Active"
   },
   {
-    "id": 12,
     "fullname": "Hannah Scott",
     "name": "custmer8",
     "password": "cus8",
@@ -147,7 +124,6 @@
     "status": "Active"
   },
   {
-    "id": 13,
     "fullname": "Ian Reed",
     "name": "custmer9",
     "password": "cus9",
@@ -159,7 +135,6 @@
     "status": "Active"
   },
   {
-    "id": 14,
     "fullname": "Jenny Patel",
     "name": "custmer10",
     "password": "cus10",
@@ -171,7 +146,6 @@
     "status": "Active"
   },
   {
-    "id": 15,
     "fullname": "Kyle Chen",
     "name": "custmer11",
     "password": "cus11",
